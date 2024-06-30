@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Mohamed Alshamy and I'm a Machine learning Engineer</p>
+<p align="left" style="font-size: larger;">My name is Mohamed Alshamy and I'm a Machine learning Engineer</p>
+
 
 ###
 
