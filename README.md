@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://www.freepik.com/free-vector/boy-using-laptop-cartoon-character-sticker_16851299.htm#query=svg&position=11&from_view=keyword&track=sph&uuid=20544b64-181c-4b23-92d8-27e0cd84290e" alt="Snake animation" />
 
 
 ###
