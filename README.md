@@ -56,6 +56,7 @@
   <a href="https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1D1D1D&logoColor=white&style=for-the-badge" alt="X Badge" />
   </a>
+  <br clear="both">
   <a href="https://discord.com/channels/@mo7amed_alshamy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/discord/your_discord_server_id?style=social&logo=discord" alt="Discord Server Badge" />
   </a>
