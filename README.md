@@ -17,9 +17,9 @@
 <p>Connect with me:</p>
 <ul>
     <li><a href="https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09" target="_blank">Twitter</a></li>
-    <li><a href="https://www.linkedin.com/in/https://linkedin.com/in/Mohamed-Alshamy" target="_blank">LinkedIn</a></li>
-    <li><a href="https://www.facebook.com/https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg" target="_blank">Facebook</a></li>
-    <li><a href="https://www.instagram.com/https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==" target="_blank">Instagram</a></li>
+    <li><a href="https://linkedin.com/in/Mohamed-Alshamy" target="_blank">LinkedIn</a></li>
+    <li><a href="https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg" target="_blank">Facebook</a></li>
+    <li><a href="https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==" target="_blank">Instagram</a></li>
 </ul>
 
 
