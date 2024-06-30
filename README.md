@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! I'm Mohamed Alshamy </h1>
 
-<h2 align="left"> Machine Learning Engineer </h2>
+<h2 align="center"> Machine Learning Engineer </h2>
 
 
 ###
