@@ -20,7 +20,7 @@
     <li><a href="https://linkedin.com/in/Mohamed-Alshamy" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
     <li><a href="https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg" target="_blank"><i class="fab fa-facebook"></i> Facebook</a></li>
     <li><a href="https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
-     <img href="https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09" height="40" alt="python logo" />
+    
 </ul>
 
 
