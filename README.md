@@ -43,15 +43,15 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/Mohamed-Alshamy" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <img width="12" />
   <a href="https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook logo" />
   </a>
   <img width="12" />
   <a href="https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
   <img width="12" />
   <a href="https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09" target="_blank" rel="noopener noreferrer">
@@ -65,18 +65,12 @@
   <a href="mailto:mohamedalshamy250@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail logo" />
   </a>
-
-
-
-
-
-
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mo7amed-Alshamy/Mo7amed-Alshamy/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mo7amed-Alshamy/Mo7amed-Alshamy/main" alt="Snake animation" />
 
 ###
