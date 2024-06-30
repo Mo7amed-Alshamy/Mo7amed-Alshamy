@@ -39,7 +39,8 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+ <img src="[https://img.shields.io/static/v1?message](https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg)=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+
   <img src="https://img.shields.io/static/v1?message=https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09&logo=x&label=&color=1D1D1D&logoColor=white&style=for-the-badge" height="35" alt="X logo" />
   <img src="https://img.shields.io/static/v1?message=https://discord.com/channels/@mo7amed_alshamy&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
