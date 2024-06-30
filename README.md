@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Alshamy and I'm a Machine Learning Engineer, from Cairo, Egypt</h2>
+<h1 align="center">Hi 👋! I'm Mohamed Alshamy </h1>
 
 ###
 
@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mo7amed-Alshamy/Mo7amed-Alshamy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mo7amed-Alshamy/Mo7amed-Alshamy/main/snake.svg" alt="Snake animation" />
 
 ###
