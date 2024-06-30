@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋, I'm Mohamed Alshamy</h1>
 
 ###
 
-<p align="left" style="font-size: larger;">My name is Mohamed Alshamy and I'm a Machine learning Engineer</p>
+<p align="left" style="font-size: larger;">I'm a Machine learning Engineer</p>
 
 
 ###
