@@ -1,39 +1,20 @@
-<h1 align="left">Hi 👋, I'm Mohamed Alshamy</h1>
+<h2 align="left">Hi 👋! My name is Mohamed Alshamy and I'm a Machine Learning Engineer, from Cairo, Egypt</h2>
 
 ###
 
-<p align="left" style="font-size: larger;">I'm a Machine learning Engineer</p>
-
-
-###
-
-<h2 align="left">Motivated Computer Vision and Artificial Intelligence Engineer with a solid foundation in developing algorithms, techniques, and systems that enable computers to interpret and understand visual information from the real world.</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo7amed-Alshamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo7amed-Alshamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<p align="left">✨ Currently Work on Developing a Neutrino Racing Vehicle for object detection, tracking, image processing and Perception of the environment around them.<br>📚 I'm currently learning Advanced Techniques in Deep learning and Reinforcement learning.<br>🎯 Goals: To advance the field of computer vision by creating innovative solutions for real-world problems and to contribute to open-source projects.<br>🎲 Fun fact: I love exploring the intersection of technology and creativity, and I often experiment with AI-generated art in my spare time.</p>
-
-###
-
-<p>Connect with me:</p>
-<ul>
-    <li><a href="https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></li>
-    <li><a href="https://linkedin.com/in/Mohamed-Alshamy" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-    <li><a href="https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg" target="_blank"><i class="fab fa-facebook"></i> Facebook</a></li>
-    <li><a href="https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
-    
-</ul>
-
-
-
-###
-
-<h2 align="left">Languages and Tools:</h2>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFpZGIwejQ4YXJhamMxdnltNXZ6azMyZ3Y5eGhsMm95YmN3N2Z2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8PsbXoE6jIAjvbKG01/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
@@ -53,8 +34,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/onnx/onnx-original.svg" height="40" alt="ONNX logo" />
-  <img width="12" />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=https://www.facebook.com/share/ZmszK9UjwnpAAGQc/?mibextid=qi2Omg&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  <img src="https://img.shields.io/static/v1?message=https://www.instagram.com/mo7amed_alshamy?igsh=MWxubXEyNGcyYnR2ZA==&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09&logo=x&label=&color=1D1D1D&logoColor=white&style=for-the-badge" height="35" alt="X logo" />
+  <img src="https://img.shields.io/static/v1?message=https://discord.com/channels/@mo7amed_alshamy&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=mailto:mohamedalshamy250@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=https://linkedin.com/in/Mohamed-Alshamy&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mo7amed-Alshamy/Mo7amed-Alshamy/output/snake.svg" alt="Snake animation" />
 
 ###
