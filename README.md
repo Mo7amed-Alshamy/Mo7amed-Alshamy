@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=https://x.com/mo7amed_alshamy?t=uHAIfJGARR_fq_L1l8njRg&s=09&logo=x&label=&color=1D1D1D&logoColor=white&style=for-the-badge" height="35" alt="X logo" />
   <img src="https://img.shields.io/static/v1?message=https://discord.com/channels/@mo7amed_alshamy&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=mailto:mohamedalshamy250@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
- <a href="[https://www.linkedin.com/in/your-profile-url](https://linkedin.com/in/Mohamed-Alshamy)" target="_blank" rel="noopener noreferrer">
+ <a href="(https://linkedin.com/in/Mohamed-Alshamy)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 </div>
